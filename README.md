@@ -4,7 +4,7 @@ Guides for checking image dimensions, cropping, resizing, and reducing file size
 
 Jadys Fit provides browser-based tools for preparing images to meet pixel dimension, aspect ratio, format, and file size requirements.
 
-**Use the tools:** https://jadysfit.com/en
+**Use the tools:** https://jadysfit.com
 
 ## Start with your image requirements
 
